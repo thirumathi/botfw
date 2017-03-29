@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BotLoadTestProject/JsonExtractionRule/obj
+/BotLoadTestProject/JsonExtractionRule/bin/Debug
+/BotLoadTestProject/JsonExtractionRule/bin/Debug
+/BotLoadTestProject/WebAndLoadTestProject1/bin/Debug
+/BotLoadTestProject/.vs
+/BotLoadTestProject/TestResults
+/BotLoadTestProject/.vs
+/BotLoadTestProject/WebAndLoadTestProject1/obj
+/intelligence-LUIS/bin
+/intelligence-LUIS/obj
+/intelligence-LUIS/.vs
