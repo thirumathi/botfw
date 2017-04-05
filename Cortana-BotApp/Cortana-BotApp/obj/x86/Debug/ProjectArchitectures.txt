@@ -1,0 +1,1 @@
+D:\Dev\Bot\Cortana-BotApp\Cortana-BotApp\Cortana-BotApp.csproj;x86
