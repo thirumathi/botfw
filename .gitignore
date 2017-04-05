@@ -13,3 +13,9 @@
 /intelligence-LUIS/bin
 /intelligence-LUIS/obj
 /intelligence-LUIS/.vs
+/Cortana-BotApp/Cortana-BotApp/bin/x86/Debug
+/Cortana-BotApp/Cortana-BotApp/obj
+/Cortana-BotApp/VoiceCommandService/bin/x86/Debug
+/Cortana-BotApp/VoiceCommandService/obj/x86/Debug
+/HelloWorldBot/HelloWorldBot/bin
+/HelloWorldBot/HelloWorldBot/obj
